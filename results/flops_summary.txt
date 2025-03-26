@@ -1,0 +1,8 @@
+Total Budget: 1e+17 FLOPS
+Experiment                               FLOPS                % of Total Budget   
+--------------------------------------------------------------------------------
+Baseline (Inference only)                3.716343e+13         0.0372%             
+LoRA 1 (Default parameters)              9.444766e+15         9.4448%             
+LoRA 2 (Hyperparameter search)           1.751959e+16         17.5196%            
+LoRA 3 (Final Model)                     4.527753e+16         45.2775%            
+Total                                    7.227905e+16         72.2790%            

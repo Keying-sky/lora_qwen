@@ -1,0 +1,21 @@
+{
+    "hyperparameters": {
+        "lora_rank": 4,
+        "learning_rate": 1e-05,
+        "batch_size": 4,
+        "max_steps": 2000,
+        "max_ctx_length": 512,
+        "eval_ctx_length": 50,
+        "early_stopping_patience": 2
+    },
+    "training_time": 45286.0933778286,
+    "actual_steps": 2000,
+    "early_stopped": false,
+    "final_metrics": {
+        "MSE": 0.08885320591404226,
+        "MAE": 0.20181580068171026,
+        "R2": 0.6643445776695487,
+        "Prey_MSE": 0.12303210575670147,
+        "Predator_MSE": 0.05467430607138309
+    }
+}

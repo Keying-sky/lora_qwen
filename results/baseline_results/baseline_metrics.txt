@@ -1,0 +1,6 @@
+---------------- Metrics for untrained model ----------------
+MSE: 0.2747
+MAE: 0.3066
+R2: 0.2463
+Prey_MSE: 0.4215
+Predator_MSE: 0.1279

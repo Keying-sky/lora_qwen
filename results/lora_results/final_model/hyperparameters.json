@@ -1,0 +1,9 @@
+{
+    "lora_rank": 8,
+    "learning_rate": 5e-05,
+    "batch_size": 4,
+    "max_steps": 15000,
+    "max_ctx_length": 512,
+    "eval_ctx_length": 50,
+    "early_stopping_patience": 3
+}
