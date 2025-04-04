@@ -51,4 +51,4 @@ from lora_qwen import evaluate_model, calculate_flops, train_lora_model, preproc
 
 ## Usage
 
-The main workflow runs intuitively in the folder `run` , in which the `run_baseline.ipynb` and `run_lora.ipynb` answer the questions in part 2 and 3 of the coursework respectively while the `run_lora.ipynb` demonstrates the calculation of the FLOPS used.
+The main workflow runs intuitively in the folder `run` , in which the `run_baseline.ipynb` and `run_lora.ipynb` answer the questions in part 2 and 3 of the coursework respectively while the `run_flops_calculation.ipynb` demonstrates the calculation of the FLOPS used.
