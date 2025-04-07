@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=42", "wheel"]
+requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -25,10 +25,6 @@ dependencies = [
 "scikit-learn",
 "seaborn"
 ]
-
-
-[tool.setuptools.package-data]
-"company" = ["data/*"]
 
 [tool.setuptools]
 packages = ["lora_qwen"]
